@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm server.js"
+  },
+  "keywords": [],
+  "author": "Yeabsira",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+    
+  }
+}
